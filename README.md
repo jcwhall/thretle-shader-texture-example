@@ -11,9 +11,13 @@ npm install
 
 ## Running ##
 
+To run:
 ```sh
 npm run dev
+```
 
-# or start the server and open the app in a new browser tab
+Or start the server and open the app in a new browser tab:
+```sh
+# 
 npm run dev -- --open
 ```
