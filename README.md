@@ -3,6 +3,9 @@
 I couldn't find a basic example of [Sveltekit](https://svelte.dev/kit/) + [Threlte](https://threlte.xyz/) + Loading a Texture + Shader.
 This is it.
 
+- Texture is in the static folder (from Threejs example)
+- Simple shaders
+
 ## Install ##
 Run: 
 ```sh
