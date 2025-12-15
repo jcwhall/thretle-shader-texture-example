@@ -1,6 +1,6 @@
 # Thretle Textured Shader example
 
-I couldn't find a basic example of Sveltekit + Threlte + Loading a Texture + Shader.
+I couldn't find a basic example of [Sveltekit](https://svelte.dev/kit/) + [Threlte](https://threlte.xyz/) + Loading a Texture + Shader.
 This is it.
 
 ## Install ##
