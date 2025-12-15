@@ -19,7 +19,7 @@ To run:
 npm run dev
 ```
 
-Or start the server and open the app in a new browser tab:
+Or run and open the app in a new browser tab:
 ```sh
 # 
 npm run dev -- --open
