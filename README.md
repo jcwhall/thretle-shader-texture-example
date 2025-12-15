@@ -24,3 +24,7 @@ Or start the server and open the app in a new browser tab:
 # 
 npm run dev -- --open
 ```
+
+## Screenshot ##
+
+![Example screenshot](/static/example_screenshot.png)
