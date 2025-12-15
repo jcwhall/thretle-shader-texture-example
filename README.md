@@ -6,6 +6,9 @@ This is it.
 - Texture is in the static folder (from Threejs example)
 - Simple shaders
 
+## Example ##
+See an example [here](https://jcwhall.github.io/thretle-shader-texture-example/)
+
 ## Install ##
 Run: 
 ```sh
@@ -26,5 +29,4 @@ npm run dev -- --open
 ```
 
 ## Screenshot ##
-
 ![Example screenshot](/static/example_screenshot.png)
