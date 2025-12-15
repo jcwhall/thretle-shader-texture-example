@@ -30,3 +30,10 @@ npm run dev -- --open
 
 ## Screenshot ##
 ![Example screenshot](/static/example_screenshot.png)
+
+## Build ##
+To build run:
+
+```sh
+npm run build
+```
